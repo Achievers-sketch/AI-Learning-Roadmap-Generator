@@ -1,4 +1,4 @@
-# 🧠 AI Learning Roadmap Generator
+# 🧠 AI Learning Roadmap
 
 An AI-powered application that generates personalized learning
 roadmaps based on a user's learning domain, skill level,
@@ -34,7 +34,7 @@ available time, and learning goals.
 
 ## 🌐 Live Demo
 
-[Try the AI Learning Roadmap Generator](YOUR_LIVE_LINK)
+[Try the AI Learning Roadmap Generator] https://huggingface.co/spaces/Achievers001/ai-learning-roadmap
 
 ## 📦 Installation
 
